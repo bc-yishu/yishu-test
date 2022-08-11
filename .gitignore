@@ -1,0 +1,13 @@
+.classpath
+.project
+.settings
+.svn
+logs
+target
+dubbo-registry.properties
+dubbo-registry.properties.lock
+registry
+/.idea/
+*.iml
+*.log
+log.out.*
